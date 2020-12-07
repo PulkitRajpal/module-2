@@ -25,6 +25,17 @@
     text-align: center;
 }
 
+.sushi{
+background-color:"darksalmon";
+}
+
+.chicken{
+background-color:"peru"; 
+}
+
+.Beef{
+background-color:"darkkhaki"
+}
 @media(min-width:992px){
     .container{
         width: 30%;
